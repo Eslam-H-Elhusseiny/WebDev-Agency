@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3 align="center">Web Dev Agency</h3>
+<h1 align="center">Web Dev Agency</h1>
 <p align="center">
 Responsive Website Built With HTML and CSS Only!
 
